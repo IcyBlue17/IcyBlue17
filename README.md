@@ -1,4 +1,4 @@
-n# Hi there 👋  
+# Hi there 👋  
 ***  
 ## 👋我是IcyBlue  
 你可以叫我:  
@@ -20,3 +20,6 @@ n# Hi there 👋
 ☠️在折腾一些有的没的前后端结合项目，但是常常三分钟热度！  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icyblue17&layout=compact&hide=batchfile&theme=tokyonight)](https://github.com/icyblue17)
+
+### 😃我是谁？  
+只是一名来自中国的普通高中生！
