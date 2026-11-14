@@ -1,28 +1,47 @@
-# Hi 👋, I'm IcyMichiko
+## Hi there, I'm IcyMichiko 👋
 
-### Just a normal student
+- 🎓 Student at **Xi’an Jiaotong-Liverpool University**.
+- 📍 From **Hainan**, studying in **Suzhou**.
+- 🛠️ Swift apps, Go tools & a little bit of web.
+- 📷 Photography, rhythm games & J-pop. **n-buna** ♡
+- 🌱 Learning **Go / Swift / Python**.
+- 🌐 Interested in **networking, Docker, Kubernetes & BGP**.
+- 📝 Writing at **[icybit.cn](https://icybit.cn)**.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=IcyBlue17&label=Profile views&color=0e75b6&style=flat" alt="IcyBlue17" /> </p>
+> 素衣未起风尘叹，犹及清明可到家。
 
-<p align="left"> <a href="https://twitter.com/@IcyLiqu1d" target="blank"><img src="https://img.shields.io/twitter/follow/@IcyLiqu1d?logo=twitter&style=for-the-badge" alt="@IcyLiqu1d" /></a> </p>
+### Find me
 
-- 🔭 I'm currently working on **Hakuro - An Apple Music-like Jellyfin iOS APP by Swift
-Some useful clash rules
-...**
+[![Blog](https://img.shields.io/badge/Blog-icybit.cn-3b82f6?style=for-the-badge&logo=rss&logoColor=white)](https://icybit.cn) [![Email](https://img.shields.io/badge/Email-icy%40starrail.cloud-5267df?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:icy@starrail.cloud) [![X](https://img.shields.io/badge/X-IcyLiqu1d-161616?style=for-the-badge&logo=x&logoColor=white)](https://x.com/IcyLiqu1d)
 
-- 🌱 I'm currently learning **Golang,Swift,Python
-Docker,k8s
-BGP**
+### My Gear
 
-- 📫 How to reach me **icy@starrail.cloud**
+![MacBook Pro M1](https://img.shields.io/badge/MacBook_Pro-M1-333333?style=for-the-badge&logo=apple&logoColor=white) ![Jiaolong 16 Pro](https://img.shields.io/badge/Laptop-Jiaolong_16_Pro-555B65?style=for-the-badge)
 
-- 📝 I regularly write articles on **[https://icybit.cn](https://icybit.cn)**
+![iPhone 16 Pro](https://img.shields.io/badge/iPhone-16_Pro-8D8176?style=for-the-badge&logo=apple&logoColor=white) ![AirPods Pro 3](https://img.shields.io/badge/AirPods-Pro_3-737373?style=for-the-badge&logo=apple&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/IcyBlue17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="IcyBlue17" height="30" width="40" /></a>
-<a href="https://twitter.com/@IcyLiqu1d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@IcyLiqu1d" height="30" width="40" /></a>
-</p>
+![ROG Azoth](https://img.shields.io/badge/ROG-夜魔-FF0029?style=for-the-badge&logo=republicofgamers&logoColor=white) ![MCHOSE ACE68 V2](https://img.shields.io/badge/迈从-ACE68_V2-7356BF?style=for-the-badge) ![Logitech GPW 2](https://img.shields.io/badge/Logitech-GPW_2-00B8FC?style=for-the-badge&logo=logitech&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/amplify" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/azure" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/gcp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/go" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=go" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/heroku" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=heroku" alt="heroku" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/hexo" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/hexo/0E83CD" alt="hexo" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kubernetes" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/rails" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=rails" alt="rails" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/swift" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=swift" alt="swift" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuepress" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vuepress" width="40" height="40"/> </a></p>
+![Nikon Z8](https://img.shields.io/badge/Nikon-Z8-FFE100?style=for-the-badge&logo=nikon&logoColor=171717) ![NIKKOR Z 24–200](https://img.shields.io/badge/NIKKOR-Z_24–200mm-252525?style=for-the-badge&logo=nikon&logoColor=FFE100)
+
+### Languages & Tools
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=171717) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### Infrastructure & Networking
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=171717) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white) ![BGP](https://img.shields.io/badge/BGP-334155?style=for-the-badge&logoColor=white)
+
+### My Projects
+
+- **[Hoshiro](https://github.com/IcyBlue17/Hoshiro)** — 跨平台语音输入法，按住说话，松开上屏。
+- **[ROG Azoth OLED](https://github.com/IcyBlue17/ROG-AzothOLED-HIDProtocol)** — 折腾夜魔的 OLED 屏幕，记录 HID 协议，让 macOS / Linux 也能自定义显示。
+- **[Blue-Archive-NET](https://github.com/IcyBlue17/Blue-Archive-NET)** — 给自部署 Aqua DX 实例写的前端。
+
+[More projects →](https://github.com/IcyBlue17?tab=repositories)
+
+### Visitors
+
+<a href="https://count.getloli.com/"><img src="https://count.getloli.com/@IcyBlue17.github.readme?name=IcyBlue17.github.readme&theme=minecraft&padding=4&offset=0&align=top&scale=0.6&pixelated=1&darkmode=auto" alt="Profile visits" width="260" /></a>
