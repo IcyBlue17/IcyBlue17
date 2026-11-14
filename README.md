@@ -42,6 +42,10 @@
 
 [More projects →](https://github.com/IcyBlue17?tab=repositories)
 
+### Tokens Stats
+
+[![Tokens Stats](https://tokens.ci/api/embed/IcyBlue17/svg?template=graph&tokens=compact&cost=full)](https://tokens.ci/u/IcyBlue17)
+
 ### Visitors
 
 <a href="https://count.getloli.com/"><img src="https://count.getloli.com/@IcyBlue17.github.readme?name=IcyBlue17.github.readme&theme=minecraft&padding=4&offset=0&align=top&scale=0.6&pixelated=1&darkmode=auto" alt="Profile visits" width="260" /></a>
